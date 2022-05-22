@@ -4,13 +4,13 @@ Checkpoint 3 de Responsive Web Development 1 º Semestre-FIAP
 > Status do Projeto: :construction: Em construção :construction:
 
 ## Tópicos 
-:small_blue_diamond: [Regras!](https://github.com/ExerciciosJ/CP-RWD/edit/main/README.md#regras)
+:small_blue_diamond: [Regras!](https://github.com/ExerciciosJ/CP-RWD/blob/main/README.md#regras)
 
-:small_blue_diamond: [Critérios (Pontuação)](https://github.com/ExerciciosJ/CP-RWD/edit/main/README.md#crit%C3%A9rios)
+:small_blue_diamond: [Critérios (Pontuação)](https://github.com/ExerciciosJ/CP-RWD/blob/main/README.md#crit%C3%A9rios)
 
-:small_blue_diamond: [Objetivos ](https://github.com/ExerciciosJ/CP-RWD/edit/main/README.md#objetivo)
+:small_blue_diamond: [Objetivos ](https://github.com/ExerciciosJ/CP-RWD/blob/main/README.md#objetivo)
 
-:small_blue_diamond: [Entrega ](https://github.com/ExerciciosJ/CP-RWD/edit/main/README.md#entrega)
+:small_blue_diamond: [Entrega ](https://github.com/ExerciciosJ/CP-RWD/blob/main/README.md#entrega)
 
 ## Regras:
 <p> ❕ O CP3 será realizado off-line, para entrega; </p>
