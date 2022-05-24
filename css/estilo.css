@@ -1,19 +1,19 @@
+
 body{
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
     color: #444;
 }
 
-.menu{
+.container{
     max-width: 1128px;
-    float: right;
+
 }
 
 a {
     color: #00ccff;
     font-size: 12px;
-    //Retire o estilo de hyperlink de todos os elementos.
-    //Determine que ao passar o mouse os hyperlinks tenham sua decoração alterada para underline
+
 }
 
 a:link{
@@ -43,6 +43,26 @@ img{
     float: left;
 }
 
+.menu{
+    float: right;
+
+}
+
+.menu li{
+    font-size: 14px;
+    float: right;
+    display: inline;
+    margin-left: 24px;
+    margin-top: 12px;
+    
+}
+
+.menu a{
+    font-size: 20px;
+    color: #999;
+
+}
+
 .banner{
     height: 450px;
     margin-bottom: 35px;
@@ -50,14 +70,21 @@ img{
 }
 
 .box{
-    width: 42.5px;
+    width: 480px;
+    height: 203px;
     position: absolute;
+    top: 48px;
     padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 48px;
     padding-right: 48px;
     background-color: rgba(0, 0, 0, 0.5);
 
+}
+
+.box p{
+    font-size: 20px;
+    color: #fff
 }
 
 h1{
@@ -75,3 +102,15 @@ h1{
     font-size: 30px;
 }
 
+.rodape p{
+    margin-bottom: 0;
+
+}
+
+.rodape small{
+    font-size: 18px;
+}
+
+.rodape a{
+    font-size: 1;
+}
